@@ -5,6 +5,5 @@ using namespace std;
 int main(){
 	string S;
 	cin >> S;
-	
-	cout << S.length();
+	cout << 1;
 }
